@@ -8,8 +8,15 @@
 body{
   background-image: url(../img/kakigoori02-003.png),url(../img/2530983949_d7c4ed5352_o.jpg);
   background-repeat: no-repeat,no-repeat;
+  background-size: 5% 5%, cover;
   background-color: lightgray;
   margin: 5px;
+}
+body{
+  background-image: url(../img/kakigoori02-003.png),url(../img/2530983949_d7c4ed5352_o.jpg);
+  background-repeat: no-repeat,no-repeat;
+  background-size: 100px 100px, contain;
+  background-color: lightgray;
 }
 
 #text-shadow{
